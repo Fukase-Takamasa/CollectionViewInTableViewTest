@@ -1,0 +1,6 @@
+framework module Pods_CollectionViewInTableViewTest_CollectionViewInTableViewTestUITests {
+  umbrella header "Pods-CollectionViewInTableViewTest-CollectionViewInTableViewTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
